@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/routing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Framework-agnostic route registry, link grammar and Navigator contract shared by the family's web (react-router) and React Native (react-navigation) apps",
   "type": "module",
   "sideEffects": false,
